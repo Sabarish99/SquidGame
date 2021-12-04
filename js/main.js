@@ -118,7 +118,7 @@ class SquidDoll
     constructor(){
         // Load a glTF resource
         loader.load(
-            // resource URL
+            // resource URL .
             '/SquidGame/models/scene.gltf',
             // called when the resource is loaded
             ( gltf ) => {
