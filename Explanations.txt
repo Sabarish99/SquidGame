@@ -1,0 +1,15 @@
+This is SQuid GAME recreation built on the top of Three JS.
+This is my first attempt to design a Game.. 
+
+
+Three JS documentation : https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+So we download the three.js from github page and put it alongside other JS files.
+
+Step 1: Create Scene..
+To actually be able to display anything with three.js, we need three things:
+ scene, camera and renderer, so that we can render the scene with camera.
+ Initially on doing so, we get black background.
+We need Camera to view a scene. We use perspective camera.
+
+

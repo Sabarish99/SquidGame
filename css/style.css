@@ -1,0 +1,19 @@
+    /* body{
+        background-color: aqua;
+    } */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text
+{
+    position: absolute;
+    font-size: 50px;
+   /* margin-left: 50vw; */
+   left: 50%;
+   transform: translateX(-50%);
+   top: 10px;
+   text-shadow: 0 2px 5px ;
+   font-weight: bolder;
+}
