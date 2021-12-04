@@ -119,7 +119,7 @@ class SquidDoll
         // Load a glTF resource
         loader.load(
             // resource URL
-            '../models/scene.gltf',
+            '..SquidGame/models/scene.gltf',
             // called when the resource is loaded
             ( gltf ) => {
         
